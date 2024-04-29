@@ -1,12 +1,17 @@
 # CTF210s
-Welcome to the first ever capture the flag competition at Spetsen - CTF210s! All challenges are created by students at Hitachigymnasiet. Below you'll find a list of all challenges including the difficulty level as estimated by the creator/s of each challenge. The number of points for each challenge (between 50p and 150p per flag) is determined by the formula: P=(1.5-x)100, where x is the estimated success rate (ESR).
+[Eng] Welcome to the first ever capture the flag competition at Spetsen - CTF210s! All challenges are created by students at Hitachigymnasiet. Below you'll find a list of all challenges including the difficulty level as estimated by the creator/s of each challenge. The number of points for each challenge (between 50p and 150p per flag) is determined by the formula: P=(1.5-x)100, where x is the estimated success rate (ESR).
 
-Välkommen till den första spets-CTF'en CTF210s! Alla utmaningar är skapade av elever på Hitachigymnasiet. Nedan hittar du en lista på alla utmaningar och deras svårighetsnivå enligt varje skapare. Varje utmaning är tilldelade poäng (mellan 50p och 150p per flagga) baserat på formeln: P=(1.5-x)100, där x är den andel av tävlande som uppskattas klara en uppgift (ESR).
+[Sve] Välkommen till den första spets-CTF'en CTF210s! Alla utmaningar är skapade av elever på Hitachigymnasiet. Nedan hittar du en lista på alla utmaningar och deras svårighetsnivå enligt varje skapare. Varje utmaning är tilldelade poäng (mellan 50p och 150p per flagga) baserat på formeln: P=(1.5-x)100, där x är den andel av tävlande som uppskattas klara en uppgift (ESR).
 
 # Flags
-The flags are all on the form 210s{secret_msg} or 210S{secret_msg}. When you solve a challange and discover a flag you should report it in [this google form](https://forms.gle/r8avcrteqTrMsqVK9). 
+[Eng] The flags are all on the form 210s{secret_msg} or 210S{secret_msg}. When you solve a challange and discover a flag you should report it in [this google form](https://forms.gle/r8avcrteqTrMsqVK9). 
 
-Flaggorna är alla på formen 210s{secret_msg} eller 210S{secret_msg}. När du löst en utmaning och hittat en flagga kan du rapportera den [i det här google formuläret](https://forms.gle/r8avcrteqTrMsqVK9). 
+[Sve] Flaggorna är alla på formen 210s{secret_msg} eller 210S{secret_msg}. När du löst en utmaning och hittat en flagga kan du rapportera den [i det här google formuläret](https://forms.gle/r8avcrteqTrMsqVK9). 
+
+## CTF-report
+[Eng] When you report your flag you will also write a short report outlining your solution as well as your feedback to the developer (assuming this was actually part of a real program - how could the developer stop you from accessing the flag the way you did). This is part of the google form linked above.
+
+[Sve] När du rapporterar en flagga ska du också skriva en kort rapport som beskriver din lösning och din återkoppling till skaparen (om utmaningsmaterialet hade varit en del av ett riktigt program - hur hade utvecklaren kunnat hindra dig från att komma åt flaggan på det sätt du gjorde). Detta görs i google formuläret som länkas ovan.
 
 # Challenges
 ## [AES Crypto Quest](https://github.com/sofaKTH/CTF210s/tree/main/AES%20Crypto%20Quest)
@@ -61,8 +66,3 @@ ESR=0.05 --> **145p**
 ESR=0.85 --> **65p**
 ## [Utflykt i skogen](https://github.com/sofaKTH/CTF210s/tree/main/Utflykt%20i%20skogen)
 ESR=0.95 --> **55p**
-
-# CTF-report
-When you solve a challenge you should write a short report outlining your solution as well as your feedback to the developer (assuming this was actually part of a real program - how could the developer stop you from accessing the flag the way you did). You can write all your reports in one md-file and put it in your github repository (where you put your challenge).
-
-När du löst en utmaning ska du skirva en kort rapport som beskriver din lösning och din återkoppling till skaparen (om utmaningsmaterialet hade varit en del av ett riktigt program - hur hade utvecklaren kunnat hindra dig från att komma åt flaggan på det sätt du gjorde). Du kan skriva alla rapporter i en md-fil och lägga den i ditt github repo.
