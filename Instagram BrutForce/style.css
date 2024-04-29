@@ -1,0 +1,210 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+:root {
+	--border-color-gray: #cfcfcf;
+}
+
+body {
+	background-color: white;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.login-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	width: 350px;
+	height: 466.99px;
+	border: 1px solid var(--border-color-gray);
+
+	margin-top: 10px;
+}
+
+.instagram-text-icon {
+	width: 175px;
+	height: 51px;
+}
+
+.text-icon-container {
+	margin-top: 45px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.input-container {
+	margin-top: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin-bottom: 15px;
+}
+.inputfield {
+	width: 270px;
+	height: 37.6px;
+	border: 0.8px solid var(--border-color-gray);
+	border-radius: 3px;
+	background-color: rgb(250, 250, 250);
+	border-color: rgb(219, 219, 219);
+
+	font-size: 12px;
+	line-height: 18px;
+	padding: 9px 0px 7px 8px;
+}
+
+.login-button {
+	background-color: #4cb5f9;
+	border: none;
+	border-radius: 8px;
+	width: 270px;
+	height: 32px;
+
+	color: white;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 18px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.art-container {
+	color: rgb(115, 115, 115);
+	font-weight: 600;
+	font-size: 13px;
+	line-height: 15px;
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+
+.line {
+	width: 107.5px;
+	height: 1px;
+	background-color: #dbdbdb;
+}
+
+.facebook-container {
+	margin-top: 30px;
+	display: flex;
+	gap: 8px;
+	align-items: center;
+	color: #385185;
+	font-weight: 600;
+	font-size: 14px;
+}
+
+.facebook-icon {
+	height: 16px;
+}
+
+.forgotPass {
+	color: #00376b;
+	font-size: 12px;
+	cursor: pointer;
+	margin-top: 20px;
+}
+
+.warning {
+	font-size: 12px;
+	font-weight: 600;
+	position: absolute;
+	bottom: 175px;
+	left: 60px;
+	margin-top: 50px;
+	height: 20px;
+	color: rgb(0, 0, 0);
+}
+
+#errorP {
+	display: none;
+	margin-top: 15px;
+	color: red;
+	text-align: center;
+}
+
+#errorP.open {
+	display: block;
+}
+
+.report {
+	margin-top: 30px;
+	color: rgb(115, 115, 115);
+	font-size: 12px;
+	text-align: center;
+	max-width: 85%;
+}
+
+.report__span {
+	color: #00376b;
+	cursor: pointer;
+}
+
+.report__span:hover {
+	text-decoration: underline;
+}
+
+.underLogin {
+	width: 350px;
+	margin-top: 10px;
+	line-height: 18px;
+	font-size: 14px;
+	text-align: center;
+	border: 1px solid var(--border-color-gray);
+	padding: 20px 30px 20px 30px;
+}
+
+.signUp {
+	color: #0095f6;
+	font-size: 14px;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.getApp-container {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	justify-items: center;
+	width: 350px;
+	padding: 20px 30px 20px 30px;
+}
+
+.getApp-container p {
+	text-align: center;
+	font-size: 14px;
+}
+
+.download-btns {
+	display: flex;
+	justify-content: space-around;
+	justify-items: center;
+}
+
+.bn44 {
+	width: 134.28px;
+	height: 40px;
+}
+
+.bn45 {
+	width: 134.28px;
+	height: 40px;
+}
+
+.errorMessage {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	bottom: 50px;
+	background-image: url("https://t3.ftcdn.net/jpg/02/77/81/38/360_F_277813859_AGKg1oERFXvshfrkf8tJfcWO2X5xSz2T.jpg");
+	background-size: cover; /* This property ensures that the background image covers the entire div */
+}

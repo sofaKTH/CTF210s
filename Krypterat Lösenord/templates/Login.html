@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Login</title>
+</head>
+<body style="background-color:rgb(151, 210, 133);">
+
+    <header style="background-color: rgb(177, 229, 81); font-size: x-large; padding: 1%; border-radius: 10px;">
+        <a href="/" style="margin-right:10%; margin-left:10% ;">Home</a>
+        <a href="/about">About</a>
+        <a href="/login" style="float: right; margin-right:10% ;" >Login</a>
+    </header>
+
+    <h1 style="text-align: center; margin-top: 5%; font-size:xx-large;">LOGIN</h1>
+    <div style="background-color: rgb(177, 229, 81); margin: 15%; margin-bottom: 0%; margin-top: 0%; padding: 5%; text-align: center; border-radius: 25px; height: 200px;">
+        <div style="width: 49%; height: 100%; float: left; border-right-style: solid; border-color: green;">
+            Already got an account?
+            <form action="#" method="post">
+
+            <div style="margin: 3%;"><input type="text" name="loginName" placeholder="Username" maxlength="25" style="height: 25px; width: 55%; "></div>
+            <div style="margin: 3%;"><input type="password" name="loginPass" placeholder="Password" maxlength="25" style="height: 25px; width: 55%; "></div>
+            <input type="submit" name="login" value="Login" style="width: 30%; height: 50px; font-size: large;">
+
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    {% for msg in messages %}
+                        {% if msg == 'loginFalied' %}
+                            <div id="loginFailed" style="color: red;">Incorrect Username or Password!</div>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+
+            </form>
+        </div>
+        <div style="width: 49%; float: right;">
+            Create new account!
+            <form action="#" method="post">
+
+            <div style="margin: 3%;"><input type="text" name="signUpName" placeholder="Username" maxlength="25" style="height: 25px; width: 55%; "></div>
+            <div style="margin: 3%;"><input type="password" name="signUpPass" placeholder="Password" maxlength="25" style="height: 25px; width: 55%; "></div>
+            <input type="submit" name="signUp" value="Register" style="width: 30%; height: 50px; font-size: large;">
+            {% with messages = get_flashed_messages() %}
+                {% if messages %}
+                    {% for msg in messages %}
+                        {% if msg == 'signUpFalied' %}
+                            <div id="signUpFailed" style="color: red;">Insufficient Username or Password!</div>
+                        {% endif %}
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+            </form>
+        </div>
+    </div>
+
+
+</body>
+</html> 
