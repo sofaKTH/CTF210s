@@ -2,7 +2,7 @@
 Welcome to the first ever CTF210s - a capture the flag compition with challenges created by 210s at Hitachigymnasiet! Below you'll find a list of all challenges including the difficulty level as estimated by the creator/s of each challenge. The number of points for each challenge (between 50p and 150p per flag) is determined by the formula: P=(1.5-x)100, where x is the estimated success rate (ESR).
 
 # Challenges
-## AES Crypto Quest
+## [AES Crypto Quest](https://github.com/sofaKTH/CTF210s/tree/main/AES%20Crypto%20Quest)
 ESR=0.65 --> **P=85p**
 <!--- 
 ## Alternativa Metoder
