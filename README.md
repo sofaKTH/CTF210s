@@ -40,7 +40,7 @@ ESR=1 --> **50p**
 ESR=(userflag=0.8, rootflag given userflag=0.65) --> Both flags: **155p**, only userflag: **70p**
 ## [Hack the license plate](https://github.com/sofaKTH/CTF210s/tree/main/Hack%20the%20license%20plate)
 ESR=0.35 --> **115p**
-## Hitta det hemliga recptet
+## [Hitta det hemliga recptet](https://github.com/sofaKTH/CTF210s/tree/main/Hitta%20det%20hemliga%20recptet)
 ESR=0.5 --> **100p**
 ## [Hitta flaggan ur texten](https://github.com/sofaKTH/CTF210s/tree/main/Hitta%20flaggan%20ur%20texten)
 ESR=0.6 --> **90p**
