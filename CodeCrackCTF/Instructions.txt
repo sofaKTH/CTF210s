@@ -1,4 +1,6 @@
-1. Skanna nätverket du är kopplad till och hitta Linux virtualbox maskinen. 
+Din uppgift är att ta dig in på en Linux virtualBox maskin och hitta flagan i en krypterad fil.
+
+1. Skanna nätverket du är kopplad till och hitta Linux virtualbox maskinen. Subnet Masken är 255.255.0.0. De 2 sista numrena i ip-addressen "?.?.2.181" och användarnamnet för enheten är "luca" 
 2. Kom in på Linux enheten. Listor med möjliga lösenord för bruteforce attacker finns att ladda ner ifrån folder "Passwords" i detta repository.
 3. Hitta folder "ReadMeMaybe" på Linux enheten
 4. I folder finns det en fil som heter flag.txt.enc
