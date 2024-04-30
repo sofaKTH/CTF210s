@@ -16,10 +16,8 @@
 # Challenges
 ## [AES Crypto Quest](https://github.com/sofaKTH/CTF210s/tree/main/AES%20Crypto%20Quest)
 ESR=0.65 --> **P=85p**
-<!--- 
-## Alternativa Metoder
-ESR= 
--->
+## [Alternativa Metoder](https://github.com/sofaKTH/CTF210s/tree/main/Alternativa%20Metoder)
+ESR= 0.9 --> **P=60p**
 ## [Bun Is the Best Javascript runtime!!](https://github.com/sofaKTH/CTF210s/tree/main/Bun%20Is%20the%20Best%20Javascript%20runtime!!)
 ESR=0.6 --> **P=90p**
 ## [CodeCrackCTF](https://github.com/sofaKTH/CTF210s/tree/main/CodeCrackCTF)
