@@ -36,7 +36,7 @@ ESR=0.33 --> **117p**
 ESR=1 --> **50p**
 ## [H4CK 7H3 W0R1D](https://github.com/sofaKTH/CTF210s/tree/main/H4CK%207H3%20W0R1D)
 ESR=(userflag=0.8, rootflag given userflag=0.65) --> Both flags: **155p**, only userflag: **70p**
-## [Hack the license plate - Traffikverkets kvantdator](https://github.com/sofaKTH/CTF210s/tree/main/Hack%20the%20license%20plate)
+## [Hack the license plate eller Traffikverkets kvantdator](https://github.com/sofaKTH/CTF210s/tree/main/Hack%20the%20license%20plate)
 ESR=0.35 --> **115p**
 ## [Hitta det hemliga recptet](https://github.com/sofaKTH/CTF210s/tree/main/Hitta%20det%20hemliga%20recptet)
 ESR=0.5 --> **100p**
@@ -56,7 +56,7 @@ ESR=0.4 --> **110p**
 ESR=0.3 --> **120p**
 ## [Salt](https://github.com/sofaKTH/CTF210s/tree/main/Salt)
 ESR=0.3 --> **120p**
-## [Surfa med Ed Sheeran](https://github.com/sofaKTH/CTF210s/tree/main/Surfa%20med%20Ed%20Sheeran)
+## [Surfa med Ed Sheeran eller Lagom Säker Bild](https://github.com/sofaKTH/CTF210s/tree/main/Surfa%20med%20Ed%20Sheeran)
 ESR=0.4 --> **110p**
 ## [The Art to Format](https://github.com/sofaKTH/CTF210s/tree/main/The%20Art%20to%20Format)
 ESR=0.05 --> **145p**
