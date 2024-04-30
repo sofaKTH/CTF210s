@@ -56,6 +56,8 @@ ESR=0.4 --> **110p**
 ESR=0.3 --> **120p**
 ## [Salt](https://github.com/sofaKTH/CTF210s/tree/main/Salt)
 ESR=0.3 --> **120p**
+## [Salt part 2](https://github.com/sofaKTH/CTF210s/tree/main/Salt%20part%202)
+ESR=0.5 --> **100p**
 ## [Surfa med Ed Sheeran eller Lagom Säker Bild](https://github.com/sofaKTH/CTF210s/tree/main/Surfa%20med%20Ed%20Sheeran)
 ESR=0.4 --> **110p**
 ## [The Art to Format](https://github.com/sofaKTH/CTF210s/tree/main/The%20Art%20to%20Format)
