@@ -6,3 +6,4 @@ Din uppgift är att ta dig in på en Linux virtualBox maskin och hitta flagan i 
 4. I folder finns det en fil som heter flag.txt.enc
 5. Flaggan finns i den filen
 6. Filen är enktypterad med AES-128 algorithmen och enkryption key'n är samma som ("Available Balance" på kontot "800001 Checking" hos användaren "Admin" på denna webbsidan: https://demo.testfire.net/index.jsp)/10^34
+7. Använd dig av decrypt.py filen tillsammans med decryption key'n för att få fram flaggan
