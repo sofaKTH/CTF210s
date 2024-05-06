@@ -16,7 +16,7 @@ def decrypt_file(encrypted_file, key):
 
 # Main function
 def main():
-    key = b'5910200000000000'  # 16 bytes key
+    key = b''  # 16 bytes key
     encrypted_file = "flag.txt.enc"
     if not os.path.exists(encrypted_file):
         print("Error: Encrypted file '{}' not found.".format(encrypted_file))
