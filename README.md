@@ -1,3 +1,6 @@
+# Updates
+Instagram Brutfore uppdaterad till en version som blockerar "fusk"-möjligheter. Ny flagga gäller.
+
 # CTF210s
 [Eng] Welcome to the first ever capture the flag competition at Spetsen - CTF210s! All challenges are created by students at Hitachigymnasiet. Below you'll find a list of all challenges including the difficulty level as estimated by the creator/s of each challenge. The number of points for each challenge (between 50p and 150p per flag) is determined by the formula: P=(1.5-x)100, where x is the estimated success rate (ESR).
 
